@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="elapsed" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1311,9 +1311,26 @@
             <slidelink slideid="_player.5jGJtMADKms.6lPMpoCToyu" displaytext="Drag and Drop" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6776WixH7F4" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6776WixH7F4" displaytext="pendahuluan" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6776WixH7F4.5Y0qMIdFi6s" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5fX9fkbfhpv" displaytext="latihan soal" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5fX9fkbfhpv.5VbezrXeBJz" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fX9fkbfhpv.69xaM0m1y0m" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.5fX9fkbfhpv.5x7Oov1xTLP" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.5fX9fkbfhpv.5fBalcE8QyC" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.5fX9fkbfhpv.6lfzBkq9xUr" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.5fX9fkbfhpv.62HjdmZ86uQ" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.5fX9fkbfhpv.6bhtb1VoDmu" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fX9fkbfhpv.6TXERGbOF3Q" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fX9fkbfhpv.6LCDv4vlJ1M" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fX9fkbfhpv.6oi1xqp4aRq" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fX9fkbfhpv.6TGjTZ2nZNt" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fX9fkbfhpv.6TcINHfvSdi" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5fX9fkbfhpv.5Zkcny0XDYz" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
