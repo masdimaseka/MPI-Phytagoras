@@ -6,6 +6,7 @@
     <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
     <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
     <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnabnsnfns00000000001" font="Open Sans" controllayout="npnxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -197,6 +198,29 @@
         </controls>
       </control>
       <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxnabnsnfns00000000001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
     </control_layout>
   </control_layouts>
   <colorschemes>
@@ -1251,11 +1275,17 @@
             <slidelink slideid="_player.6dJGbMeactm.5WRMt5cvNZi" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6dJGbMeactm.6f7sqyvseju" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6dJGbMeactm.6HFQ5OAajfi" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6dJGbMeactm.5Z5RLfOZyRC" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6dJGbMeactm.6onLN7QT7w7" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6dJGbMeactm.6Uxl89GSILW" displaytext="base 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6dJGbMeactm.6ETXBKAA7D8" displaytext="base 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6dJGbMeactm.6HfvcfGBaxO" displaytext="2 soal 1 salah" expand="false" type="slide" />
+            <slidelink slideid="_player.6dJGbMeactm.6i1AItXNmeR" displaytext="2 soal 2 salah" expand="false" type="slide" />
+            <slidelink slideid="_player.6dJGbMeactm.6onLN7QT7w7" displaytext="next soal" expand="false" type="slide" />
             <slidelink slideid="_player.6dJGbMeactm.6KCdBRUnuTc" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6dJGbMeactm.6bakMxfG9pK" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6dJGbMeactm.6BzYn5xRBXr" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6dJGbMeactm.6ntvIfoxcAk" displaytext="Pick One" expand="false" type="slide" />
+            <slidelink slideid="_player.6dJGbMeactm.644cmcf420j" displaytext="Pick One" expand="false" type="slide" />
+            <slidelink slideid="_player.6dJGbMeactm.6JDcOZRXmhn" displaytext="2 soal salah 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6dJGbMeactm.6JmVeri9YhP" displaytext="2 soal salah 4" expand="false" type="slide" />
             <slidelink slideid="_player.6dJGbMeactm.6nnzc6kCWCS" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6dJGbMeactm.5mOH2MuwBO0" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
