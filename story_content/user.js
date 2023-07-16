@@ -2,26 +2,44 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "6g92SqDhB0a":
+      case "6Iq1r9tLCnM":
         Script1();
         break;
-      case "6YLnNXqXfn8":
+      case "6Qjd87iul7k":
         Script2();
         break;
-      case "6LWaQfyA4Cn":
+      case "66BHxInJQfw":
         Script3();
         break;
-      case "63pbl1ZZ5Ic":
+      case "5VTDSPv5LpT":
         Script4();
         break;
-      case "62m4jDHirt8":
+      case "5fdNqpXUcgI":
         Script5();
         break;
-      case "6rfJRMG8Cpp":
+      case "5V2m3mUmE3M":
         Script6();
         break;
-      case "5mfLRkKvKOz":
+      case "64D5pCJjkYu":
         Script7();
+        break;
+      case "65rf2mPTfYm":
+        Script8();
+        break;
+      case "5f3iIhSprlI":
+        Script9();
+        break;
+      case "6pVceQJNsAP":
+        Script10();
+        break;
+      case "6rKZnR0Lamp":
+        Script11();
+        break;
+      case "6gmz7sWnviZ":
+        Script12();
+        break;
+      case "6ewQDtIsuB3":
+        Script13();
         break;
   }
 }
@@ -49,13 +67,13 @@ audio.pause();
 function Script4()
 {
   var audio = document.getElementById('bgSong');
-audio.play();
+audio.pause();
 }
 
 function Script5()
 {
   var audio = document.getElementById('bgSong');
-audio.pause();
+audio.play();
 }
 
 function Script6()
@@ -65,6 +83,42 @@ audio.play();
 }
 
 function Script7()
+{
+  var audio = document.getElementById('bgSong');
+audio.play();
+}
+
+function Script8()
+{
+  var audio = document.getElementById('bgSong');
+audio.pause();
+}
+
+function Script9()
+{
+  var audio = document.getElementById('bgSong');
+audio.pause();
+}
+
+function Script10()
+{
+  var audio = document.getElementById('bgSong');
+audio.play();
+}
+
+function Script11()
+{
+  var audio = document.getElementById('bgSong');
+audio.play();
+}
+
+function Script12()
+{
+  var audio = document.getElementById('bgSong');
+audio.play();
+}
+
+function Script13()
 {
   var audio = document.getElementById('bgSong');
 audio.pause();
